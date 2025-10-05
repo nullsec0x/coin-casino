@@ -30,6 +30,12 @@ coin-casino
 
 ------------------------------------------------------------------------
 
+## Demo Video
+
+![Demo Video](demo.mp4)
+
+------------------------------------------------------------------------
+
 ## Features
 
 -   **Mini-Games**: Coin Flip, Slot Machine, Number Guess (Blackjack
