@@ -30,9 +30,9 @@ coin-casino
 
 ------------------------------------------------------------------------
 
-## Demo Video
+## Demo video
 
-![Demo Video](demo.mp4)
+[![Demo](demo.gif)](https://www.youtube.com/watch?v=hNo6dco5zQo)
 
 ------------------------------------------------------------------------
 
