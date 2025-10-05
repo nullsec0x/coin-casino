@@ -6,62 +6,47 @@
 ![Pillow](https://img.shields.io/badge/images-pillow-lightblue.svg)
 ![License: MIT](https://img.shields.io/badge/license-MIT-yellow.svg)
 
-Coin Casino is a Python/Tkinter desktop application that simulates a
-virtual casino experience.\
-It includes multiple mini-games, user profiles, achievements,
-statistics, and a shop system.
+**Coin Casino** is a feature-rich desktop casino game built with Python
+and Tkinter.\
+It includes multiple mini-games, user profiles, achievements, a shop
+system, daily bonuses, and a statistics dashboard --- all wrapped into
+one virtual casino experience.
+
+------------------------------------------------------------------------
+
+## Installation
+
+``` bash
+pip install coin-casino
+```
+
+------------------------------------------------------------------------
+
+## Quick Start
+
+``` bash
+coin-casino
+```
 
 ------------------------------------------------------------------------
 
 ## Features
 
 -   **Mini-Games**: Coin Flip, Slot Machine, Number Guess (Blackjack
-    coming soon).\
+    coming soon)\
 -   **Profiles**: Create and save multiple player profiles with
-    persistent progress.\
--   **Balance Tracking**: Earn or lose coins with each bet, plus daily
-    login bonuses.\
--   **Achievements**: Unlockable milestones like win streaks, high bets,
-    and balance goals.\
--   **Shop System**: Buy upgrades such as Lucky Charm, Double Bet, and
-    VIP Pass.\
+    persistent progress\
+-   **Balance Tracking**: Earn or lose coins with bets, plus daily login
+    bonuses\
+-   **Achievements**: Unlock streaks, high bets, and balance goals\
+-   **Shop System**: Purchase upgrades like Lucky Charm, Double Bet, and
+    VIP Pass\
 -   **Statistics Dashboard**: Track wins, losses, streaks, biggest
-    wins/losses, and overall performance.
+    wins/losses, and overall performance
 
 ------------------------------------------------------------------------
 
-## Requirements
 
--   Python 3.8+
--   Tkinter (comes with Python standard library)
--   Matplotlib
--   Pillow
-
-Install dependencies with:
-
-``` bash
-pip install matplotlib pillow
-```
-
-------------------------------------------------------------------------
-
-## Usage
-
-Run the application with:
-
-``` bash
-python coin_casino.py
-```
-
-------------------------------------------------------------------------
-
-## Project Structure
-
--   **coin_casino.py** → Main application file\
--   **profiles/** → Saved user profiles (JSON format)
-
-------------------------------------------------------------------------
-
-## License
+## 📜 License
 
 This project is released under the MIT License.
