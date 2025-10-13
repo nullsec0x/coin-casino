@@ -32,7 +32,7 @@ coin-casino
 
 ## Demo video
 
-[![Demo](clip.gif)](https://www.youtube.com/watch?v=hNo6dco5zQo)
+[![Demo](demo.gif)](https://www.youtube.com/watch?v=hNo6dco5zQo)
 
 ------------------------------------------------------------------------
 
